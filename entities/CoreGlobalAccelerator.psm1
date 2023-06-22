@@ -1,6 +1,6 @@
-﻿<# @category : Networking #>
-<# @service  : Global Accelerator #>
-<# @author   : Mustapha Benmbarek #>
+﻿# @category : Networking
+# @service  : Global Accelerator
+# @author   : Mustapha Benmbarek
 class CoreGlobalAccelerator {
     [string]${account}
     [string]${region}

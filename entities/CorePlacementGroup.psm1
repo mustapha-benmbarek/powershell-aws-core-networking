@@ -1,6 +1,6 @@
-﻿<# @category : Networking #>
-<# @service  : Placement Group #>
-<# @author   : Mustapha Benmbarek #>
+﻿# @category : Networking
+# @service  : Placement Group
+# @author   : Mustapha Benmbarek
 class CorePlacementGroup {
     [string]${account-id}
     [string]${region}

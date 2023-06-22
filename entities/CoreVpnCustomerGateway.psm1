@@ -1,6 +1,6 @@
-﻿<# @category : Networking #>
-<# @service  : VPN | Customer Gateway #>
-<# @author   : Mustapha Benmbarek #>
+﻿# @category : Networking
+# @service  : VPN | Customer Gateway
+# @author   : Mustapha Benmbarek
 class CoreVpnCustomerGateway {
     [string]${account}
     [string]${region}

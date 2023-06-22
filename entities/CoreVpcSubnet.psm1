@@ -1,6 +1,6 @@
-﻿<# @category : Networking #>
-<# @service  : VPC | Subnet #>
-<# @author   : Mustapha Benmbarek #>
+﻿# @category : Networking
+# @service  : VPC | Subnet
+# @author   : Mustapha Benmbarek
 class CoreSubnet {
     [string]${account}
     [string]${region}

@@ -1,6 +1,6 @@
-﻿<# @category : Networking #>
-<# @service  : Virtual Private Cloud (VPC) #>
-<# @author   : Mustapha Benmbarek #>
+﻿# @category : Networking
+# @service  : Virtual Private Cloud (VPC)
+# @author   : Mustapha Benmbarek
 class CoreVpc {
     [string]${account}
     [string]${region}

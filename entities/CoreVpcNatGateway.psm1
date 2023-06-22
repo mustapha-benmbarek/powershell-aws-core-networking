@@ -1,6 +1,6 @@
-﻿<# @category : Networking #>
-<# @service  : VPC | NAT Gateway #>
-<# @author   : Mustapha Benmbarek #>
+﻿# @category : Networking
+# @service  : VPC | NAT Gateway
+# @author   : Mustapha Benmbarek
 class CoreVpcNatGateway {
     [string]${account}
     [string]${region}
